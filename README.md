@@ -18,6 +18,20 @@
 - Product
   - List of all products
   - Filtering by category and Is_active
-- Storehouse
-  - Filtering by place and account
-  - List of all storehouse data
+    - Storehouse
+      - Filtering by place and account
+      - List of all storehouse data
+
+
+    INITIAL COMMIT
+**Models**
+- Custom user
+
+**API**
+- All account list
+- CRUD account
+- JSON Web Token
+
+**Unit tests**
+
+Tests for all account's APIs
