@@ -1,5 +1,16 @@
 # Storehouse
-    PATCH 0.0.1
+~~~
+PATCH 0.0.2
+~~~
+**API**
+
+- /product/place_list/ --> GET
+  - List of all places
+- /product/place/place_id/storehouse/ --> GET
+  - Filtering all storehouse data by place
+~~~
+PATCH 0.0.1
+~~~
 ***Models***
 - Added Place model
   - To filter stuffs by place
